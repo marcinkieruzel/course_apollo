@@ -3,8 +3,19 @@ import express from "express";
 import typeDefs from "./typeDefs.js";
 import resolvers from "./resolvers.js";
 import bodyParser from "body-parser";
+// import { pool } from "./database.js";
+
+// (async () => {
+//   try {
+//     const results = await pool.query(`SELECT * FROM "users"`);
+
+//     console.log(results.rows);
 
 
+//   } catch (error) {
+//     console.log(error);
+//   }
+// })();
 
 const startServer = async () => {
   const app = express();
