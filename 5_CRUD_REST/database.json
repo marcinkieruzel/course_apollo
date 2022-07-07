@@ -28,7 +28,7 @@
     {
       "id": 6,
       "quote": "You miss 100% of the shots you don’t take.",
-      "author": "Wayne Gretzky"
+      "author": "Robert Lewandowski"
     },
     {
       "id": 7,
@@ -44,16 +44,6 @@
       "id": 9,
       "quote": "Every strike brings me closer to the next home run.",
       "author": "Babe Ruth"
-    },
-    {
-      "id": 10,
-      "quote": "Definiteness of purpose is the starting point of all achievement.",
-      "author": "W. Clement Stone"
-    },
-    {
-      "id": 11,
-      "quote": "We must balance conspicuous consumption with conscious capitalism.",
-      "author": "Kevin Kruse"
     },
     {
       "id": 12,
@@ -149,9 +139,36 @@
       "id": 30,
       "quote": "Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it.",
       "author": "Johann Wolfgang von Goethe"
+    },
+    {
+      "author": "Lao Tse",
+      "quote": "TEST",
+      "id": 34
+    },
+    {
+      "author": "Lao Tse",
+      "quote": "TEST",
+      "id": 35
+    },
+    {
+      "author": "Lao Tse",
+      "quote": "Jest jak jest i koniec",
+      "id": 36
+    },
+    {
+      "author": "Lao Tse",
+      "quote": "Jest jak jest i koniec",
+      "id": 37
+    },
+    {
+      "author": "Lao Tse",
+      "quote": "Jest jak jest i koniec",
+      "id": 38
+    },
+    {
+      "author": "Lao Tse",
+      "quote": "Jest jak jest i koniec",
+      "id": 39
     }
-  ],
-  "total": 100,
-  "skip": 0,
-  "limit": 30
+  ]
 }

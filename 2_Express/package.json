@@ -1,0 +1,15 @@
+{
+  "name": "2_express",
+  "version": "1.0.0",
+  "description": "1. Zainstaluj Express.js od początku 2. W folderze wykonaj komendę `npm init` 3. Następnie zainstaluj Express'a `npm install express` 4. Stwórz kilka routów z różnymi metodami aby przetestować serwer 5. Stwórz middleware które będzie logował headery każdego requesta",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
