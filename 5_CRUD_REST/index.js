@@ -3,6 +3,7 @@ import express from "express";
 import typeDefs from "./typeDefs.js";
 import resolvers from "./resolvers.js";
 import bodyParser from "body-parser";
+import cors from 'cors'
 
 
 
@@ -22,6 +23,7 @@ const startServer = async () => {
       extended: true,
     })
   );
+  app.use(cors())
 
   app.use((req, res) => {
     res.send("Hello from apollo");
